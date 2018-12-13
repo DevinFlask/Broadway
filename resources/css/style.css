@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.options {
+  background-image: image(/Broadway/resources/images/the-flatiron-building.png);
+}
+
+#home {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.menu {
+  font-size: 18px;
+  color: white;
+}
+
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.threePs, #work, #team, #contact {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#design {
+  background-image: image(/Broadway/resources/images/the-flatiron-building.png);
+  font-size:23px;
+  font-weight:bold;
+  color: white;
+}
